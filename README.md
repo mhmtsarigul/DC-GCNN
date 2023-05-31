@@ -2,6 +2,7 @@
 
 Pytorch implementation of Deep Convolutional Generalized Classifier Neural Network. 
 Paper link : https://link.springer.com/article/10.1007/s11063-020-10233-8
+
 Citation: 
 
 <code>
